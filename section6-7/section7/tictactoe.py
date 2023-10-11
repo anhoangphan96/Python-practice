@@ -23,7 +23,7 @@ def player_input():
   if player1 == "X":
     player2 = "O"
   else:
-    player2 = "X"
+    player2 ="X"
   return (player1, player2)
 
 #thực hiện lượt đánh dấu
